@@ -1,2 +1,2 @@
-# Calc_Brython
+# Brython
  Calculadora construída em Brython
